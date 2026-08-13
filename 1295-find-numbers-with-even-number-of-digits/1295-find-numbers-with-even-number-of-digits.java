@@ -2,7 +2,7 @@ class Solution {
     public int findNumbers(int[] nums) {
         int ans = 0;
         for (int i = 0; i<nums.length; i++){
-            if(String.valueOf(Math.abs(nums[i])).length()%2 == 0){
+            if(((int)(Math.log10(nums[i])) + 1)%2 == 0){
                 ans++;
             }
 
