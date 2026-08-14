@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0013-roman-to-integer) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0013-roman-to-integer) |
 | [0367-valid-perfect-square](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -81,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
