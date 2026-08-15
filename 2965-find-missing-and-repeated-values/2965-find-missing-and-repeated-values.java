@@ -1,38 +1,22 @@
 class Solution {
     public int[] findMissingAndRepeatedValues(int[][] grid) {
         int n = grid.length;
-        int[] arr = new int[n * n];
-
-        int k = 0;
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                arr[k++] = grid[i][j];
+        int[] freq = new int[n*n+1];
+        for(int i=0; i<grid.length; i++){
+            for(int j=0; j<grid[0].length; j++){
+                freq[grid[i][j]]++;
             }
         }
-
-        Arrays.sort(arr);
-
-        int repeated = -1;
+        int repeat = -1;
         int missing = -1;
-
-        for (int i = 1; i < arr.length; i++) {
-            if (arr[i] == arr[i - 1]) {
-                repeated = arr[i];
-                break;
+        for(int k=0; k<freq.length; k++){
+            if(freq[k]==2){
+                repeat = k;
+            }
+            if(freq[k]==0){
+                missing = k;
             }
         }
-
-        int expected = 1;
-
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i] == expected) {
-                expected++;
-            }
-        }
-
-        missing = expected;
-
-        return new int[]{repeated, missing};
+        return new int[]{repeat, missing};
     }
 }
