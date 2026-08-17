@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0349-intersection-of-two-arrays) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0191-number-of-1-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
