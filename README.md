@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1512-number-of-good-pairs) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
