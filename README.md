@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0540-single-element-in-a-sorted-array) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1512-number-of-good-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
