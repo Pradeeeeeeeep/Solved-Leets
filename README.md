@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0191-number-of-1-bits) |
 ## Sliding Window
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
