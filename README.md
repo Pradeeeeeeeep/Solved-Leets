@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2965-find-missing-and-repeated-values) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Matrix
 |  |
