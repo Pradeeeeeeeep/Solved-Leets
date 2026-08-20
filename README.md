@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2965-find-missing-and-repeated-values) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
