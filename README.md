@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0344-reverse-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
