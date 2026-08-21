@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1929-concatenation-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1929-concatenation-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Counting Sort
 |  |
 | ------- |
