@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0367-valid-perfect-square) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0136-single-number) |
