@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2154-keep-multiplying-found-values-by-two) |
