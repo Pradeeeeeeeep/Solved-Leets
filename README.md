@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0367-valid-perfect-square) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0349-intersection-of-two-arrays) |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1095-find-in-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
