@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Number Theory
