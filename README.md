@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0344-reverse-string) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0069-sqrtx) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
