@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0704-binary-search) |
