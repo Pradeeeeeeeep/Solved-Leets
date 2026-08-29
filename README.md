@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1732-find-the-highest-altitude) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1929-concatenation-of-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0844-backspace-string-compare) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Matrix
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Counting Sort
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0455-assign-cookies) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1927-sum-game](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
