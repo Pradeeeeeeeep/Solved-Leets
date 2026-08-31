@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Matrix
@@ -290,4 +291,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0203-remove-linked-list-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
