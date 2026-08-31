@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
@@ -285,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
