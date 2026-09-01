@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1927-sum-game) |
+| [2390-removing-stars-from-a-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2390-removing-stars-from-a-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2390-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2390-removing-stars-from-a-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2390-removing-stars-from-a-string) |
 ## Number Theory
 |  |
 | ------- |
