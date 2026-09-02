@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0412-fizz-buzz) |
 | [0481-magical-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0481-magical-string) |
 | [0520-detect-capital](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0520-detect-capital) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0455-assign-cookies) |
 | [0481-magical-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0633-sum-of-square-numbers) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
