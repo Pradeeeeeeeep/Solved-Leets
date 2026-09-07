@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0844-backspace-string-compare) |
+| [0940-distinct-subsequences-ii](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1927-sum-game) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0392-is-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0940-distinct-subsequences-ii) |
 ## Recursion
 |  |
 | ------- |
