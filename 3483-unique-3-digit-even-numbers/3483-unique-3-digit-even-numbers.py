@@ -1,25 +1,27 @@
 class Solution:
     def totalNumbers(self, digits: List[int]) -> int:
-        freq = [0] * 10
-
+        l=[]
+        mp=[0]*10
         for d in digits:
-            freq[d] += 1
+            mp[d] +=1
 
-        count = 0
-        for num in range(100, 1000, 2):
-            a = num // 100
-            b = (num // 10) % 10
-            c = num % 10
+        for i in range(1,10):
+            if mp[i]==0:
+                continue
+            else:
+                mp[i] -= 1
+            for j in range(0,10):
+                if mp[j]==0:
+                    continue
+                else:
+                    mp[j] -=1
+                for k in range(0,10,2):
+                    if mp[k]>0:
+                        l.append(i*100+j*10+k)
 
-            used = [0] * 10
-            used[a] += 1
-            used[b] += 1
-            used[c] += 1
-            possible = True
-            for d in range(10):
-                if used[d] > freq[d]:
-                    possible = False
-                    break
-            if possible:
-                count += 1
-        return count
+                mp[j] +=1
+            mp[i] +=1
+
+        return len(l)
+
+        
