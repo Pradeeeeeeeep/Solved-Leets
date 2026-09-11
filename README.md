@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2965-find-missing-and-repeated-values) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2965-find-missing-and-repeated-values) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0231-power-of-two) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -382,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
