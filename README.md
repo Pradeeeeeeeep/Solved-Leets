@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0835-image-overlap](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1095-find-in-mountain-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0054-spiral-matrix) |
+| [0835-image-overlap](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/3568-minimum-moves-to-clean-the-classroom) |
