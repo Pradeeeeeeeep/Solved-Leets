@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2390-removing-stars-from-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1927-sum-game](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
