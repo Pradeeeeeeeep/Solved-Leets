@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0231-power-of-two) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0151-reverse-words-in-a-string) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0844-backspace-string-compare) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0231-power-of-two) |
