@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1927-sum-game) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1004-max-consecutive-ones-iii) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Trie
 |  |
