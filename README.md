@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2965-find-missing-and-repeated-values) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting Sort
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/1512-number-of-good-pairs) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Pradeeeeeeeep/Solved-Leets/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
